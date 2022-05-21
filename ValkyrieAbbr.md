@@ -1,10 +1,9 @@
 #Valkyrie Abbreviation List
-An alternative list to the Official Wiki Glossary, *Created and maintained by TencentDimepiece (SinsOfSeven#3164)* ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+An alternative list to the Official Wiki Glossary, *Created and maintained by TencentDimepiece (SinsOfSeven#3164)* 
 [Return to Honkai Rentry Index](https://rentry.org/honkai3)
 [Jump to the official Wiki Glossary](https://honkaiimpact3.fandom.com/wiki/Glossary_of_Terms)
-!!! note
-	\* Uncommon usage
-	† Avoid using
+\* Uncommon usage
+† Avoid using
 Abbr. | Alt. Abbr. | Full name | Alt. Name† | Type | Base Rank | Special info
 -- | -- | -- | -- | -- | -- | --
 AKA | AK | Argent Knight: Artemis | Ice Rita | BIO | S
@@ -98,7 +97,6 @@ XX | | Any Valkyrie | | XXX | X |
 	> Is MC UR GK a good lineup?
 	>> Who should I add to fight Jizo? HV DK XX, I own 5★ TP 3/4 and 6★ DS 4/4
 	>>> I saw a 1s 9S FT HS BB run yesterday.
-!!! Avoid
 	LEDPHF - No Spaces
 	SS.2 HT 3S AE SSS HF 6★ - Excess information
 	2S2HS DK 6★ SS.3 SA - Mix & Match
